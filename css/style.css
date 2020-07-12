@@ -78,6 +78,11 @@ h6 {
 	font-weight: 100;
 }
 
+h6.occupation {
+	color: #212529;
+	font-size: 18px;
+}
+
 .testimonials h4 {
 	color: #0e6a6a;
 	letter-spacing: 0.3px;
