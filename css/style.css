@@ -288,14 +288,14 @@ hr {
 .navigation-clean-button .dropdown-menu .dropdown-item:focus,
 .navigation-clean-button .dropdown-menu .dropdown-item {
 	line-height: 2;
-	font-size: 14px;
-	color: #37434d;
+	font-size: 16px;
 }
 
 .navigation-clean-button .dropdown-menu .dropdown-item:focus,
 .navigation-clean-button .dropdown-menu .dropdown-item:hover {
-	background: #eee;
-	color: inherit;
+	background: #fff;
+	color: #92c841 !important;
+	box-shadow: none;
 }
 
 @media (max-width:767px) {
