@@ -1,5 +1,11 @@
 /* General styling */
 
+html {
+	scroll-padding-top: 140px;
+	/* height of sticky header */
+}
+
+
 body {
 	margin: 0;
 	font-family: 'Open Sans';
