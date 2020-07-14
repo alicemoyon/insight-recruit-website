@@ -507,10 +507,12 @@ hr {
 
 /* Footer */
 
-a.sm-ic {
-	color: #0e6a6a;
+.fundedby {
+	transform: translateY(-30%);
 }
 
-a.sm-ic:hover {
-	color: #92c841;
+@media (max-width:768px) {
+	.fundedby {
+		transform: translateY(0%);
+	}
 }
