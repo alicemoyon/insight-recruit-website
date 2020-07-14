@@ -35,6 +35,10 @@ h2 {
 	font-size: 2rem;
 }
 
+h2.videos {
+	color: white;
+}
+
 .h1,
 h1 {
 	font-family: Dosis;
@@ -369,10 +373,12 @@ hr {
 }
 
 /***************************/
-/* Work at Insight section */
+/* Life at Insight page */
 /***************************/
 
-
+.videos-section {
+	background-color: #0e6a6a;
+}
 
 
 
