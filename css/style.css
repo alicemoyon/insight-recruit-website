@@ -3,6 +3,7 @@
 html {
 	scroll-padding-top: 140px;
 	/* height of sticky header */
+	scroll-behavior: smooth;
 }
 
 
