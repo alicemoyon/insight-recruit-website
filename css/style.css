@@ -453,6 +453,12 @@ hr {
 	font-size: 18px
 }
 
+@media (max-width:576px) {
+	.testimonials {
+		font-size: 16px
+	}
+}
+
 .wrapper-carousel-fix {
 	background-color: white;
 	border-radius: 5px;
