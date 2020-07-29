@@ -377,6 +377,13 @@ hr {
 	border-radius: 0;
 }
 
+/* Post-doc opportunities section */
+
+.postdoc {
+	border: 1px solid #92c841;
+}
+
+
 /***************************/
 /* Life at Insight page */
 /***************************/
