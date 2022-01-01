@@ -533,6 +533,43 @@ a#phd-apply-button.btn.research-button.btn-rounded:hover {
 	border: 1px solid #0e6a6a;
 }
 
+/**************************************/
+/* NeuroInsight page and homepage box */
+/**************************************/
+
+.badge-pill {
+	border: 1px solid #92c841;
+	text-transform: capitalize;
+	color: #92c841;
+	background-color: white;
+	font-size: 1rem;
+	font-weight: 400;
+	line-height: 1.5;
+}
+
+img.profile {
+	width: 30% !important;
+	/*	height: 30% !important;*/
+	/*
+	position: relative;
+*/
+	border: 3px solid #92c841;
+	margin: 5 5 5 5;
+}
+
+@media (max-width:576px) {
+	img.profile {
+		width: 40% !important;
+		margin: 5 5 5 5;
+	}
+}
+
+@media (max-width:1024px) {
+	.techniques {
+		display: none;
+	}
+}
+
 
 /* Footer */
 
